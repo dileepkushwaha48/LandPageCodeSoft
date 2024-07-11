@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "landpage.html",
+        "use": "@vercel/static"
+      }
+    ]
+  }
+  
